@@ -1,0 +1,22 @@
+{
+  "name": "roombot",
+  "version": "1.0.0",
+  "description": "Bot for automating rooms in mkw tourneys.",
+  "main": "roombot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/komaano/RoomBot.git"
+  },
+  "author": "komaano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/komaano/RoomBot/issues"
+  },
+  "homepage": "https://github.com/komaano/RoomBot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
